@@ -2,10 +2,11 @@
 BraydenTan/BraydenTan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Metrics](https://metrics.lecoq.io/BraydenTan?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKuala_Lumpur)
-![Brayden's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CheeWingTan&show_icons=true&count_private=true&theme=gotham)
+
+
 
 ## Hi there, I'm Brayden Tan 👋
+![Metrics](https://metrics.lecoq.io/BraydenTan?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKuala_Lumpur)
 
 <!--
 **YanceyOfficial/YanceyOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
   <code><img height="20" src="./assets/sql.png"></code>
 </p> -->
   
-#### :trophy: Coding Info
+<!-- #### :trophy: Coding Info
 
 <p>
   <img height="186em" src="https://github-readme-stats.vercel.app/api?username=CheeWingTan
@@ -61,7 +62,7 @@ Here are some ideas to get you started:
 
 <p>
   <img height="286em" src="https://activity-graph.herokuapp.com/graph?username=CheeWingTan&theme=xcode"/>
-</p>
+</p> -->
 
 #### :hearts: Following Me
 
@@ -73,3 +74,4 @@ Here are some ideas to get you started:
   <img align="left" alt="BraydenTan | Twitter" width="21px" height="20" src="./assets/twitter.svg" /></a>
 <a href="https://www.facebook.com/cheewing.tan/">
   <img align="left" alt="BraydenTan | Facebook" width="21px" height="20" src="./assets/facebook.svg" /></a> -->
+  ![Brayden's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CheeWingTan&show_icons=true&count_private=true&theme=gotham)
