@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img height="286em" src="https://activity-graph.herokuapp.com/graph?username=YanceyOfficial&theme=xcode"/>
+  <img height="286em" src="https://activity-graph.herokuapp.com/graph?username=CheeWingTan&theme=xcode"/>
 </p>
 
 #### :hearts: Following Me
