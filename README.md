@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 #### :hearts: Following Me
 
-<a href="https://github.com/BraydenTan">
-  <img align="left" alt="YanceyOfficial | GitHub" width="21px" height="20" src="./assets/github.svg" /></a>
+<!-- <a href="https://github.com/BraydenTan">
+  <img align="left" alt="BraydenTan | GitHub" width="21px" height="20" src="./assets/github.svg" /></a>
 <a href="https://www.instagram.com/yanceyofficial">
-  <img align="left" alt="YanceyOfficial | Instagram" width="21px" height="20" src="./assets/instagram.svg" /></a>
+  <img align="left" alt="BraydenTan | Instagram" width="21px" height="20" src="./assets/instagram.svg" /></a>
 <a href="https://twitter.com/YanceyOfficial">
-  <img align="left" alt="YanceyOfficial | Twitter" width="21px" height="20" src="./assets/twitter.svg" /></a>
-<a href="https://www.facebook.com/yancey.leo.79/">
-  <img align="left" alt="YanceyOfficial | Facebook" width="21px" height="20" src="./assets/facebook.svg" /></a>
+  <img align="left" alt="BraydenTan | Twitter" width="21px" height="20" src="./assets/twitter.svg" /></a>
+<a href="https://www.facebook.com/cheewing.tan/">
+  <img align="left" alt="BraydenTan | Facebook" width="21px" height="20" src="./assets/facebook.svg" /></a> -->
