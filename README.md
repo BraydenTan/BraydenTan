@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 #### :trophy: Coding Info
 
 <p>
-  <img height="186em" src="https://github-readme-stats.vercel.app/api?username=BraydenTan
+  <img height="186em" src="https://github-readme-stats.vercel.app/api?username=CheeWingTan
 &show_icons=true&theme=gruvbox&include_all_commits=true&show_owner=true"/>
-  <img height="186em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=BraydenTan
+  <img height="186em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=CheeWingTan
 &langs_count=10&layout=compact&theme=gruvbox"/>
 </p>
 
