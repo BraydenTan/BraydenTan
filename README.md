@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi there, I'm Brayden Tan 👋
 <!-- ![Metrics](https://metrics.lecoq.io/BraydenTan?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKuala_Lumpur) -->
+<!-- ![Metrics](https://metrics.lecoq.io/BraydenTan?template=classic&stargazers=1&stars=1&introduction=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stargazers=false&stargazers.charts=true&stargazers.charts.type=chartist&stargazers.worldmap=false&stargazers.worldmap.sample=0&stars=false&stars.limit=4&introduction=false&introduction.title=true&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FKuala_Lumpur) -->
 ![Metrics](https://metrics.lecoq.io/BraydenTan?template=classic&stargazers=1&stars=1&introduction=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stargazers=false&stargazers.charts=true&stargazers.charts.type=chartist&stargazers.worldmap=false&stargazers.worldmap.sample=0&stars=false&stars.limit=4&introduction=false&introduction.title=true&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FKuala_Lumpur)
 
 <!--
